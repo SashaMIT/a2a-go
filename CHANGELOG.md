@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.4.1](https://github.com/a2aproject/a2a-go/compare/v2.4.0...v2.4.1) (2026-08-03)
+
+
+### Documentation
+
+* **security:** use GitHub Security Advisories for reporting ([#388](https://github.com/a2aproject/a2a-go/issues/388)) ([dda32ac](https://github.com/a2aproject/a2a-go/commit/dda32acd9e7602c0414ef05b580730cb83d10906))
+
 ## [2.4.0](https://github.com/a2aproject/a2a-go/compare/v2.3.1...v2.4.0) (2026-07-28)
 
 
